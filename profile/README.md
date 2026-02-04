@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Imagotipo-negro.svg" alt="TRUE Data Science & Engineering" style="max-width: 180px; width: 100%; margin: 40px 0 10px 0; display: block; height: auto;">
+  <img src="./Imagotipo-negro.svg" alt="TRUE Data Science & Engineering" style="width: auto; margin: 40px 0 10px 0; display: block; height: 200px;">
 </div>
 
 <div align="center">
